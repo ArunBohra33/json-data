@@ -1,0 +1,32 @@
+{
+    "number_of_results": 20,
+    "results": [
+        {
+            "name": {
+                "first": "Test",
+                "last": "Test"
+            },
+            "date_of_birth": {
+                "date": "1985-12-03T02:05:33",
+                "age": 36
+            },
+            "picture": {
+                "large": "https://www.pngfind.com/pngs/m/470-4703547_icon-user-icon-hd-png-download.png"
+            }
+        },
+
+        {
+            "name": {
+                "first": "Arun",
+                "last": "Bohra"
+            },
+            "date_of_birth": {
+                "date": "1985-12-03T02:05:33",
+                "age": 36
+            },
+            "picture": {
+                "large": "https://www.pngfind.com/pngs/m/470-4703547_icon-user-icon-hd-png-download.png"
+            }
+        }
+    ]
+}
